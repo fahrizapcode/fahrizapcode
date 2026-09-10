@@ -8,17 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+%26+Blockchain+Enthusiast;Building+Practical+Digital+Products;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/fahrizapcode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
 
 ---
 
