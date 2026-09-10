@@ -99,14 +99,6 @@ The system uses **smart contracts and IPFS** to provide a verifiable record of p
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahrizapcode&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub contribution stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizapcode&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
