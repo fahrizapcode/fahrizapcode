@@ -71,7 +71,7 @@ The project combines **research, community, and technology** to transform reliab
 
 **Focus:** Research · Knowledge Platform · Web3 · Community
 
-[View Repository →](https://github.com/fahrizapcode)
+[View Repository →](https://github.com/fahrizapcode/xplover-research-protocol)
 
 ---
 
@@ -83,7 +83,7 @@ Inspired by productivity tools such as Trello, the project focuses on simplifyin
 
 **Focus:** Full-Stack Web Development · Collaboration · Productivity
 
-[View Repository →](https://github.com/fahrizapcode)
+[View Repository →](https://github.com/fahrizapcode/if-collab-fe)
 
 ---
 
